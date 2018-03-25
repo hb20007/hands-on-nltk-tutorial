@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hb20007/hands-on-nltk-tutorial/master)
 
-# Hands-On NLTK TUTORIAL
+# Hands-On NLTK Tutorial
 > The hands-on NLTK tutorial in the form of Jupyter notebooks
 
 NLTK is one of the most popular Python packages for Natural Language Processing (NLP).
