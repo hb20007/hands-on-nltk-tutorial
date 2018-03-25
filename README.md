@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/norvig/pytudes/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hb20007/hands-on-nltk-tutorial/master)
 
 # Hands-On NLTK TUTORIAL
 > The hands-on NLTK tutorial in the form of Jupyter notebooks
