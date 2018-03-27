@@ -8,7 +8,7 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 ## Index of Jupyter Notebooks
 |Notebooks|
 |---|
-|[1.1 Downloading Libs and Testing that they are Working](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/1-1-Downloading-Libs-and-Testing-that-they-are-Working.ipynb)<br>*Getting ready to start!*|
+|[1.1 Downloading Libs and Testing That They Are Working](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/1-1-Downloading-Libs-and-Testing-That-They-Are-Working.ipynb)<br>*Getting ready to start!*|
 |[1.2 Text Analysis Using nltk.text](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/1-2-Text-Analysis-Using-nltk.text.ipynb)<br>*Extracting interesting data from a given text*|
 |[2.1 Deriving N-Grams from Text](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/2-1-Deriving-N-Grams-from-Text.ipynb)<br>*Creating n-grams (for language classification)*|
 |[2.2 Detecting Text Language by Counting Stop Words.ipynb](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/2-2-Detecting-Text-Language-by-Counting-Stop-Words.ipynb)<br>*A simple way to find out what language a text is written in*|
