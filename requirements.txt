@@ -1,0 +1,9 @@
+nltk
+numpy
+matplotlib
+tweepy
+TwitterSearch
+unidecode
+langdetect
+langid
+gensim
