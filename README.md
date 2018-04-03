@@ -25,7 +25,7 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 |[6.2 Twitter Search](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/6-2-Twitter-Search.ipynb)<br>*Search through past tweets*|
 |[7.1 NLTK with the Greek Script](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/7-1-NLTK-with-the-Greek-Script.ipynb)<br>*Using NLTK with foreign scripts*|
 |[8.1 The langdetect and langid Libraries](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/8-1-The-langdetect-and-langid-Libraries.ipynb)<br>*Useful libraries for language identification*|
-|[8.2 Word2Vec (gensim)](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/8-2-Word2vec-(gensim))<br>*Google's Word2vec*|
+|[8.2 Word2Vec (gensim)](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/8-2-Word2vec-(gensim).ipynb)<br>*Google's Word2vec*|
 
 ## Meta
 H. Z. Sababa — hb20007 — hzsababa@outlook.com
