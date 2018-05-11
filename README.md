@@ -30,4 +30,4 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 ## Meta
 H. Z. Sababa — hb20007 — hzsababa@outlook.com
 
-Distributed under the MIT license. See `LICENSE.md` for more information.
+Distributed under the MIT license. See [`LICENSE`](https://github.com/hb20007/hands-on-nltk-tutorial/blob/master/LICENSE) for more information.
