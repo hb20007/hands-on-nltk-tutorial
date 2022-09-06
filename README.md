@@ -1,11 +1,13 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hb20007/hands-on-nltk-tutorial/master)
 
 # Hands-On NLTK Tutorial
+
 > The hands-on NLTK tutorial in the form of Jupyter notebooks
 
 NLTK is one of the most popular Python packages for Natural Language Processing (NLP).
 
 ## Index of Jupyter Notebooks
+
 |Notebooks|
 |---|
 |[1.1 Downloading Libs and Testing That They Are Working](1-1-Downloading-Libs-and-Testing-That-They-Are-Working.ipynb)<br>*Getting ready to start!*|
@@ -28,6 +30,7 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 |[8.2 Word2Vec (gensim)](8-2-Word2vec-(gensim).ipynb)<br>*Google's Word2vec*|
 
 ## Meta
+
 H. Z. Sababa — hb20007 — hzsababa@outlook.com
 
 Distributed under the MIT license. See [`LICENSE`](LICENSE) for more information.
