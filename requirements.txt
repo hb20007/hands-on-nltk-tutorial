@@ -7,3 +7,5 @@ unidecode
 langdetect
 langid
 gensim
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+tqdm>=4.66.3 # not directly required, pinned by Snyk to avoid a vulnerability
