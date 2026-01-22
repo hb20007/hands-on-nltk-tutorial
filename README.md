@@ -27,4 +27,3 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 |[6.2 Twitter Search](6-2-Twitter-Search.ipynb)<br>*Search through past tweets.*|
 |[7.1 NLTK with the Greek Script](7-1-NLTK-with-the-Greek-Script.ipynb)<br>*Using NLTK with foreign scripts*|
 |[8.1 The `langdetect` and `langid` Libraries](8-1-The-langdetect-and-langid-Libraries.ipynb)<br>*Useful libraries for language identification*|
-|[8.2 Word2vec (`gensim`)](8-2-Word2vec-(gensim).ipynb)<br>*Google's Word2vec*|

@@ -6,4 +6,3 @@ TwitterSearch
 unidecode
 langdetect
 langid
-gensim
