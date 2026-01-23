@@ -1,8 +1,7 @@
-nltk
-numpy
-matplotlib
-tweepy
-TwitterSearch
-unidecode
 langdetect
 langid
+matplotlib
+nltk
+numpy
+svgling
+unidecode
