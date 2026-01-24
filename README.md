@@ -23,5 +23,5 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 |[4.2 Classifying News Documents into Categories](4-2-Classifying-News-Documents-into-Categories.ipynb)<br>*Building a classifier that guesses the category of a news item*|
 |[5.1 Sentiment Analysis](5-1-Sentiment-Analysis.ipynb)<br>*Is a movie review positive or negative?*|
 |[5.2 Sentiment Analysis with `nltk.sentiment.SentimentAnalyzer` and VADER](5-2-Sentiment-Analysis-with-nltk.sentiment.SentimentAnalyzer-and-VADER.ipynb)<br>*More sentiment analysis!*|
-|[6.1 NLTK with the Greek Script](6-1-NLTK-with-the-Greek-Script.ipynb)<br>*Using NLTK with foreign scripts*|
-|[6.2 The `langdetect` and `langid` Libraries](6-2-The-langdetect-and-langid-Libraries.ipynb)<br>*Useful libraries for language identification*|
+|[6.1 The `langdetect` and `langid` Libraries](6-1-The-langdetect-and-langid-Libraries.ipynb)<br>*Useful libraries for language identification*|
+|[6.2 NLTK with the Greek Script](6-2-NLTK-with-the-Greek-Script.ipynb)<br>*Using NLTK with foreign scripts*|
