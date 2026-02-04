@@ -15,9 +15,9 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 |[2.1 Deriving N-Grams from Text](2-1-Deriving-N-Grams-from-Text.ipynb)<br>*Creating n-grams (for language classification)*|
 |[2.2 Detecting Text Language by Counting Stop Words](2-2-Detecting-Text-Language-by-Counting-Stop-Words.ipynb)<br>*A simple way to find out what language a text is written in*|
 |[2.3 Language Identifier Using Word Bigrams](2-3-Language-Identifier-Using-Word-Bigrams.ipynb)<br>*State-of-the-art language classifier*|
-|[3.1 Bigrams, Stemming, and Lemmatizing](3-1-Bigrams-Stemming-and-Lemmatizing.ipynb)<br>*NLTK makes bigrams, stemming and lemmatization super-easy.*|
+|[3.1 Bigrams, Stemming, and Lemmatizing](3-1-Bigrams-Stemming-and-Lemmatizing.ipynb)<br>*NLTK makes bigrams, stemming, and lemmatization super easy.*|
 |[3.2 Finding Unusual Words for a Given Language](3-2-Finding-Unusual-Words-for-a-Given-Language.ipynb)<br>*Which words do not belong with the rest of the text?*|
-|[3.3 Creating a POS Tagger](3-3-Creating-a-POS-Tagger.ipynb)<br>*Creating a Parts of Speech tagger*|
+|[3.3 Creating a POS Tagger](3-3-Creating-a-POS-Tagger.ipynb)<br>*Creating a parts-of-speech tagger*|
 |[3.4 Parts of Speech and Meaning](3-4-Parts-of-Speech-and-Meaning.ipynb)<br>*Exploring awesome features offered by WordNet*|
 |[4.1 Name Gender Identifier](4-1-Name-Gender-Identifier.ipynb)<br>*Building a classifier that guesses the gender of a name*|
 |[4.2 Text Genre Classifier](4-2-Text-Genre-Classifier.ipynb)<br>*Building a classifier that guesses the genre of a text*|
